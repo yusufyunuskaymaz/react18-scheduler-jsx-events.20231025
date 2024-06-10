@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-edit</title>
+    <g id="icon-edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#979797" cx="10" cy="10" r="10"></circle>
+        <path d="M 12.5 4.5 L 15.5 7.5 L 15.5 7.5 L 7.5 15.5 L 4.5 15.5 L 4.5 12.5 L 12.5 4.5 M 4.5 12.5 L 4.5 15.5 M 5.5 11.5 L 8.5 14.5" stroke="#FFFFFF" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+</svg>
