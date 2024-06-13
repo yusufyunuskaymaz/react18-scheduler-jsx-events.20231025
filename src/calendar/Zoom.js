@@ -16,7 +16,7 @@ const Zoom = ({ onChange }) => {
             Zoom:
             <label><input type="radio" name="zoom" value="month" onChange={handleChange} checked={level === "month"} /> Month</label>
             <label><input type="radio" name="zoom" value="week"  onChange={handleChange} checked={level === "week"} /> Week</label>
-            <label><input type="radio" name="zoom" value="day"  onChange={handleChange} checked={level === "day"} /> Day</label>
+            <label><input type="radio" name="zoom" value="day"   onChange={handleChange} checked={level === "day"} /> Day</label>
         </span>
     );
 }
